@@ -51,6 +51,6 @@ public class GuesserGame {
         umpire.collectGuesserNumber(scan);
         umpire.collectPlayerNumbers(scan);
         umpire.compare();
-        scan.close(); //
+        scan.close(); 
     }
 }
